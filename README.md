@@ -9,7 +9,7 @@ I'm **Dupes** (aka **Drac**). In and out of the NZ IT scene since dial-up. I bui
 </p>
 
 Mobile dev. DFIR & red-team tinkerer.  
-No degree—just scars, tools, and code that got shit done.
+No degree—just scars, tools, and code that got shit done.  
 Technical enough to break things, fix them, and still annoy management.
 
 > **dupesnduds** is my open lab: forensic tooling, automation scripts, adversarial PoCs, Kotlin apps, and domain-specific LLM fine-tuning. Everything here either fixed something real—or taught me something real.
