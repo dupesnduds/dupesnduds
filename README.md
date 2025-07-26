@@ -1,4 +1,4 @@
-## ## Hi there 👋  
+## Hi there 👋  
 I'm **Dupes** (aka **Drac**). In and out of the NZ IT scene since dial-up. I build what works, skip the hype, and don’t do arse-kissing.
 
 <p align="center">
