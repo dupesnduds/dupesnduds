@@ -1,12 +1,12 @@
 ## Hi there 👋  
 I'm **Dupes** (aka **Drac**). In and out of the NZ IT scene since dial-up. I build what works, skip the hype, and don’t do arse-kissing.
 
-<p align="center">
+<!--p align="center">
   <a href="https://tumunu.com"><img src="https://img.shields.io/badge/website-tumunu.com-blue?style=for-the-badge&logo=google-chrome" alt="Website"/></a>
   <a href="https://github.com/dupesnduds/dupesnduds/releases"><img src="https://img.shields.io/github/v/release/dupesnduds/dupesnduds?style=for-the-badge&logo=github" alt="Release"/></a>
   <a href="https://github.com/dupesnduds/dupesnduds/stargazers"><img src="https://img.shields.io/github/stars/dupesnduds/dupesnduds?style=for-the-badge&logo=github&color=FCD535" alt="Stars"/></a>
   <a href="https://github.com/dupesnduds/dupesnduds/network/members"><img src="https://img.shields.io/github/forks/dupesnduds/dupesnduds?style=for-the-badge&logo=github&color=E6007A" alt="Forks"/></a>
-</p>
+</p-->
 
 Mobile dev. DFIR & red-team tinkerer.  
 No degree—just scars, tools, and code that got shit done.  
